@@ -24,7 +24,7 @@ section{
 .color-span{
     color: orange;
 }
-.flexibla-content{
+.flexible-content{
     display: flex;
 }
 .half-width{
@@ -81,7 +81,7 @@ section{
     color: white;
 }
 .review-container{
-    background-color: green;
+    background-color: tomato;
     height: 250px;
     width: 60%;
     margin: 0 auto;
