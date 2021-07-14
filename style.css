@@ -1,0 +1,90 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(245, 236, 236);
+    color: rgb(83, 83, 83);
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-size: 70px;
+    padding-top: 80px;
+}
+h2{
+    font-size: 50px;
+}
+h3{
+    font-size: 35px;
+}
+section{
+    margin-bottom: 80px;
+}
+.color-span{
+    color: orange;
+}
+.flexibla-content{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+}
+.margin-pera{
+    margin-bottom: 80px;
+}
+.link-button{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    background-image: linear-gradient(orange, tomato);
+    padding: 20px 40px;
+    border-radius: 100px;
+    box-shadow: 10px 5px 20px orangered;
+}
+.section-about{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.section-about-person-img{
+    width: 100%;
+    height: auto;
+    padding-left: 120px;
+}
+
+.align-center{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+.recipy-item{
+    background-color: white;
+    margin: 50px;
+    padding: 20px;
+    border-radius: 30px;
+}
+.recipy-item-img{
+    width: 500px;
+    height: 400px;
+    text-align: center;
+}
+.subscriber-figure{
+    background-color: white;
+    width: 90%;
+    margin: 0 auto;
+    padding: 20px 40px;
+    border-radius: 30px;
+    text-align: center;
+}
+.subscriber-channel{
+    width: 100%;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 80px;
+}
+footer p{
+    color:rgba(135, 207, 235, 0.911);
+}
